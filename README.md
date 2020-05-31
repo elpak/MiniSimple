@@ -4,7 +4,7 @@ it will adapt to the visitor's display size and will be rendered properly on
 any kind of device. 
 
 ###Preview
-![Alt text](http://minisimple.png "MiniSimple")
+![MiniSimple - Free Flatpress Theme](https://themes.blog7.org/img/minisimple-free-flatpress-theme1.jpg "MiniSimple")
 
 ###How to install
 1. Download the latest released version, or the current development build's ZIP 
@@ -35,7 +35,7 @@ Admin/panels/static/admin.static.write.tpl
 However, I recommend to use only one at the same time.
 
 How to install the plugin:
-1. Download the plugin from https://forum.flatpress.org/viewtopic.php?f=2&t=104
+1. Download the plugin from https://themes.blog7.org/mini/index.html or from https://wiki.flatpress.org/res:themes
 2. Create a new folder and name it ckeditor.
 3. Extract the theme inside your ckeditor folder. 
 4. Upload the ckeditor folder to your FlatPress blog's plugins folders 
