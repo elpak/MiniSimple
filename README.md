@@ -8,7 +8,7 @@ any kind of device.
 
 ###How to install
 1. Download the latest released version, or the current development build's ZIP 
-package. 
+package from here: https://themes.blog7.org/mini/index.html or from https://wiki.flatpress.org/res:themes
 2. Create a new folder and name it minisimple. 
 3. Extract the theme inside your minisimple folder. 
 4. Upload the minisimple folder to your FlatPress blog's themes folders 
@@ -35,7 +35,7 @@ Admin/panels/static/admin.static.write.tpl
 However, I recommend to use only one at the same time.
 
 How to install the plugin:
-1. Download the plugin from https://themes.blog7.org/mini/index.html or from https://wiki.flatpress.org/res:themes
+1. Download the plugin from https://forum.flatpress.org/viewtopic.php?f=2&t=104
 2. Create a new folder and name it ckeditor.
 3. Extract the theme inside your ckeditor folder. 
 4. Upload the ckeditor folder to your FlatPress blog's plugins folders 
